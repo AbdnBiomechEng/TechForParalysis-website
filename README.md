@@ -1,3 +1,5 @@
 # Tech For Paralysis website
 
-Website for Tech for Paralysis project info and updates: <https://abdnbiomecheng.github.io/tech4paralysis/>
+This code is for the [website for the Tech for Paralysis project](https://abdnbiomecheng.github.io/tech4paralysis/), presenting info and updates.
+
+Data collection, simulation and analysis code can be found in the https://github.com/AbdnBiomechEng/TechForParalysis repository.
